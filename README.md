@@ -1,8 +1,7 @@
-### Hi there 👋
+### Hi there, 你好, Kia ora 👋
 
-😄 Pronouns: He
-
-⚡ Fun fact: My pronoun is the same as my last name.
+😄 Pronouns: he
+⚡ Fun fact: My pronoun is the same as my last name 😆
 
 <!--
 **j-he/j-he** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
